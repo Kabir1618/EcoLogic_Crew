@@ -9,3 +9,5 @@ pandas
 numpy
 pinecone-client
 python-dotenv
+scikit-learn
+sklearn
