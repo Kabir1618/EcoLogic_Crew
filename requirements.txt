@@ -1,0 +1,11 @@
+cassio 
+datasets 
+langchain 
+openai 
+tiktoken
+streamlit
+PyPDF2
+pandas
+numpy
+pinecone-client
+python-dotenv
