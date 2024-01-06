@@ -11,7 +11,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import os
 # Load the CSV file into a DataFrame
-data = pd.read_csv('datasets\AI_EarthHack_Dataset.csv', encoding='latin-1')
+data = pd.read_csv('AI_EarthHack_Dataset.csv', encoding='latin-1')
 
 # Input text for similarity comparison
 input_text = "I'm interested in sustainable solutions for construction consumption."
