@@ -86,7 +86,7 @@ st.set_page_config(
     layout="centered", 
     initial_sidebar_state="collapsed")
 
-st.header("Make your business enviornment friendly with Circular Economy")
+st.header("Make your business enviornment friendly with Circular Economy 🌏🌳")
 
 input_text = st.text_input("Enter the business problem you want to integrate Circular Economy in?") 
 
