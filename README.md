@@ -1,5 +1,7 @@
 <h1 align="center">EcoGenius 🌿🧠</h1>
 
+![alt text](https://github.com/Kabir1618/EcoLogic_Crew/blob/main/Ecologic%20Crew.png)
+
 ## AI EarthHack: Unlocking Circular Economy Potential 
 
 Welcome to EcoLogic_Crew's innovation den, where innovation meets circular economy solutions! 🌍
