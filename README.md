@@ -28,5 +28,5 @@ Users interact with the program's UI by inputting their business idea and specif
 
 The program employs an API that communicates with an LLM model, querying it for generating circular economy concepts based on the user's input. **If the program finds a similar problem in the existing dataset, it leverages the model to generate ideas and potential loopholes specific to the user's business with examples from database. If not, it prompts the LLM for ideas and loopholes without drawing examples from the database.**
 
-![alt text](https://github.com/Kabir1618/EcoLogic_Crew/blob/main/Ecologic%20Crew.png)
+![alt text](https://github.com/Kabir1618/EcoLogic_Crew/blob/main/Ecologic_Crew.png)
 
