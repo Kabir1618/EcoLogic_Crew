@@ -1,14 +1,16 @@
-# AI EarthHack: Unlocking Circular Economy Potential
+# EcoGenius
+## AI EarthHack: Unlocking Circular Economy Potential 
 
 Welcome to EcoLogic_Crew's innovation den, where innovation meets circular economy solutions! 🌍
 
 
 ## Solution: AI-Powered idea generation Tool
 ### Enhanced Ideation
-The core offering is an algorithmic tool infused with generative AI. This tool doesn't replace human expertise; rather, it assists stakeholders in making sharper, more efficient, and less biased decisions. As it helps business owners identify the right ideas for their business also along with ideas it acts as **Devil's Advocate** to the ideas and gives potential risks and problems that business owners would want to look into before implementing the idea.
+The core offering is an algorithmic tool - **EcoGenius** infused with generative AI. This tool doesn't replace human expertise; rather, it assists stakeholders in making sharper, more efficient, and less biased decisions. As it helps business owners identify the right ideas for their business also along with ideas it acts as **Devil's Advocate** to the ideas and gives potential risks and problems that business owners would want to look into before implementing the idea.
 
-## Try your hands on the tool
+## Try your hands on the EcoGenius
 Click -> https://huggingface.co/spaces/Kabir-Singla/EcoLogic_Crew
+
 Click on the above link to go to huggingface UI 
 
 #### Helping Stakeholders
