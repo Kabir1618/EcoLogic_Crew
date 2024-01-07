@@ -1,13 +1,10 @@
 # AI EarthHack: Unlocking Circular Economy Potential
 
-Welcome to AI EarthHack, where innovation meets circular economy solutions! 🌍
+Welcome to EcoLogic_Crew's innovation den, where innovation meets circular economy solutions! 🌍
 
-## Problem Statement
 
-In Spring 2023, a groundbreaking innovation contest sparked an array of captivating circular economy ideas. The challenge now lies in evaluating these visionary concepts and unlocking their potential. Your mission during this hackathon is to harness the power of generative AI to revolutionize this evaluation process.
-
-## Solution: AI-Powered Evaluation Tool
-### Enhanced Decision-Making
+## Solution: AI-Powered idea generation Tool
+### Enhanced Ideation
 The core offering is an algorithmic tool infused with generative AI. This tool doesn't replace human expertise; rather, it assists stakeholders in making sharper, more efficient, and less biased decisions. As it helps business owners identify the right ideas for their business also along with ideas it acts as **Devil's Advocate** to the ideas and gives potential risks and problems that business owners would want to look into before implementing the idea.
 
 ## Try your hands on the tool
