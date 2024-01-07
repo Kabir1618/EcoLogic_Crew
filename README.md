@@ -1,4 +1,4 @@
-# <center> EcoGenius 🌿🧠<\center>
+# <center> EcoGenius 🌿🧠 </center>
 ## AI EarthHack: Unlocking Circular Economy Potential 
 
 Welcome to EcoLogic_Crew's innovation den, where innovation meets circular economy solutions! 🌍
