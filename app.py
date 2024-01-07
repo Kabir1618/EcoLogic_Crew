@@ -92,7 +92,7 @@ input_text = st.text_input("Enter the business problem you want to integrate Cir
 
 col_1, col_2 = st.columns([5,5])
 with col_1:
-    num_words = st.number_input("Enter the number of ideas ", min_value=1, max_value=10, value=10)
+    num_words = st.number_input("Enter the number of ideas ", min_value=1, max_value=3, value=2)
 
 
 submit = st.button("Generate Ideas")
