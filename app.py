@@ -12,7 +12,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import os
 # Load the CSV file into a DataFrame
-df = pd.read_csv('datasets\AI_EarthHack_Dataset.csv', encoding='latin-1')
+df = pd.read_csv('AI_EarthHack_Dataset.csv', encoding='latin-1')
 null_indices = df[df['solution'].isnull()].index.tolist()
 
 problems = [problem for problem in df['problem']]
